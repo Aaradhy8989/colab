@@ -1,0 +1,6 @@
+glob
+ElementTree
+cv2
+tenserflow
+PIL
+pytesseract
