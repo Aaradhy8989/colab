@@ -21,3 +21,4 @@ All the files are in repository.
 Note:
 1. Due to lack of resources model hasen't been trained for more than 1800 steps (out of expected 8000). From the various resources we conclude that model has to trained
 for at least 4000 steps
+2. Other zip file contains code for OCR, but that code isn't connected to the bounding box identification code
